@@ -2,6 +2,8 @@
 
 Search for flights using natural language — powered by AI.
 
+![AI Flight Search — searching flights in natural language](screenshot.png)
+
 ## What is AI Flight Search?
 
 An Android app that lets you search for flights by simply describing what you want. No complicated forms — just type what you need and AI finds the best options.
